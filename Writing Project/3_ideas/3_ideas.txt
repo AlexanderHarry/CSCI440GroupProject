@@ -1,0 +1,2 @@
+1: 
+2: How to read an ER diagram. The objective of this is to help the reader to understand/read an ER diagram. This will address what symbols mean and multiplicities as well as how to create an ER diagram. This will help students understand the what's/how's/why's involving ER diagram's. 
